@@ -95,4 +95,4 @@ wandb/
 data/
 fig_pdfs/
 
-
+build/
